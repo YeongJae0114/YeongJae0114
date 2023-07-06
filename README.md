@@ -1,6 +1,6 @@
 tech stack
 
-<h2>SNS</h2>
+<h2>SNS<h2>
 <a href="https://www.notion.so/YeongJae-Lee-28c6812cc4724b43b363de82fc58e669?pvs=4" target="_blank"><img src="https://simpleicons.org/icons/notion.svg" alt="" height="20" width="20">
  </a>
 
