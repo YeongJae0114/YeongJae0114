@@ -1,6 +1,6 @@
 tech stack
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="30"=></img>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="30"></img>
 
 
 sns
