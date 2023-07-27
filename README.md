@@ -1,7 +1,7 @@
-tech stack</br>
--django
--react
--
+tech stack
+
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"></img>
+
 
 sns
 <a href="https://www.notion.so/YeongJae-Lee-28c6812cc4724b43b363de82fc58e669?pvs=4" target="_blank"><img src="https://simpleicons.org/icons/notion.svg" alt="" height="20" width="20"></a>
