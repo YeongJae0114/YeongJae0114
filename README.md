@@ -1,6 +1,6 @@
 
-	<div align="center">
- <h3>tech stack</h3>
+<div align="center">
+ 	<h3>tech stack</h3>
 	<img src="https://img.shields.io/badge/python-007396?style=flat&logo=python&logoColor=white" />
  	<img src="https://img.shields.io/badge/javascript-FFFF00?style=flat&logo=javascript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
