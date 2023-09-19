@@ -7,7 +7,6 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yeongjae0114)](https://solved.ac/yeongjae0114)<br/>
 
 	<h3>sns</h3> 
 <a href="https://www.notion.so/YeongJae-Lee-28c6812cc4724b43b363de82fc58e669?pvs=4" target="_blank"><img src="https://simpleicons.org/icons/notion.svg" alt="" height="30" width="30"</a>
