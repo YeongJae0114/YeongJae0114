@@ -1,4 +1,3 @@
-
 <div>
  	<h3>Tech stack</h3>
 	<img src="https://img.shields.io/badge/python-007396?style=flat&logo=python&logoColor=white" />
