@@ -1,7 +1,7 @@
 # Yeong Jae Lee ~😉
 
 
-# 💪Skills	
+## 💪Skills	
 <div align="center">
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -18,11 +18,19 @@
 
 </div>
 
-# SNS 	
+<h3>📊 GitHub Stats</h3>
+<p>
+  <a href="https://github.com/YeongJae0114">
+    <img src="https://github-readme-stats.vercel.app/api?username=YeongJae0114&show_icons=true&theme=tokyonight">
+  </a>
+</p>
+
+<h2>🌐 SNS</h2>
 <div align="center">
 <a href="https://www.notion.so/YeongJae-Lee-28c6812cc4724b43b363de82fc58e669?pvs=4" target="_blank"><img src="https://simpleicons.org/icons/notion.svg" alt="" height="30" width="30"</a>
 <a href="https://yeongjae.tistory.com/" target="_blank"><img src ='https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg' height="30" width="30"></a>
 </div>
+
 
 
 
