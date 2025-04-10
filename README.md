@@ -2,7 +2,9 @@
 Backend server developer </br>
 Recently interested in **☁️infrastructure** and **📊monitoring.**
 
-**🚀 Skills**  </br>
+
+
+### 🚀 Skills  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![JPA / Hibernate](https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
@@ -19,6 +21,7 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 **🏃‍➡️ Learning** </br>
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+
 
 
 ### 🚀 Projects
