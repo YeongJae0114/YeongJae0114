@@ -1,5 +1,7 @@
 # Yeong Jae Lee ~😉
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{YeongJae0114}"/>
+</a>
 
 ## 💪Skills	
 <div align="center">
