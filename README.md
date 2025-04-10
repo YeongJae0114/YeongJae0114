@@ -1,43 +1,60 @@
-# Yeong Jae Lee ~😉
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/698048589689348084/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+### Hi, I'm YeongJae Lee👋
+Backend server developer </br>
+Recently interested in **☁️infrastructure** and **📊monitoring.**
 
-## 💪Skills	
-<div align="center">
+**🚀 Skills**  </br>
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white)
-  
-![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-
-</div>
-
-<h3>📊 GitHub Stats</h3>
-<p>
-  <a href="https://github.com/YeongJae0114">
-    <img src="https://github-readme-stats.vercel.app/api?username=YeongJae0114&show_icons=true&theme=tokyonight">
-  </a>
-</p>
-
-<h2>🌐 SNS</h2>
-<div align="center">
-<a href="https://www.notion.so/YeongJae-Lee-28c6812cc4724b43b363de82fc58e669?pvs=4" target="_blank"><img src="https://simpleicons.org/icons/notion.svg" alt="" height="30" width="30"</a>
-<a href="https://yeongjae.tistory.com/" target="_blank"><img src ='https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg' height="30" width="30"></a>
-</div>
+**🏃‍➡️ Learning** </br>
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
 
+### 🚀 Projects
 
+| Title                         | Period | Description                                                 | Role              |
+|------------------------------|--------|-------------------------------------------------------------|--------------------|
+| [EasyShift](https://github.com/YeongJae0114/EasyShift-backend)|2025.03| 교대 근무 매장 관리자를 위한 스케줄링 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue) , ![Deployment](https://img.shields.io/badge/Deployment-green) |
+| [ Short Thesis](https://github.com/Short-thesis) |2024.12| 논문 숏츠 자동 생성 서비스                                        |![Backend](https://img.shields.io/badge/Backend-blue) |
+| [Trebbit](https://github.com/Sparcs-Hackathon-Team29)           |2024.08| 당일치기 여행지 추천과 문화생활 정보를 제공하는 서비스                   |![Backend](https://img.shields.io/badge/Backend-blue) , ![Deployment](https://img.shields.io/badge/Deployment-green) |
+| [여정](https://github.com/YeongJae0114/Travel-Money-backend)                          |2024.06| 영수증 분석 및 지출 보고서 작성 서비스                               |![Backend](https://img.shields.io/badge/Backend-blue) |
+| [Smart Pargking Service](https://github.com/Smart-Parking-PJ)       |2023.12| 실시간 주차 공간 확인 서비스                                       |![Backend](https://img.shields.io/badge/Backend-blue) |
+|[꿀단지](https://github.com/gguldangi)              |2023.09| 최저가 강의 정보를 제공하는 웹 서비스                                |![PM](https://img.shields.io/badge/PM-purple) , ![Fullstack](https://img.shields.io/badge/Fullstack-lightgrey) |
+|  [대전이랑](https://github.com/YeongJae0114/With_Deajeon_PJ)                    |2022.11| 대전 지역 식당, 숙소, 행사 정보 제공 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue) |
+
+
+<h3>📈 Contributions & My Dev Pets</h3>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.gitanimals.org/">
+        <img
+          src="https://render.gitanimals.org/guilds/698048589689348084/draw"
+          width="600"
+          height="300"
+          alt="gitanimals"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/YeongJae0114">
+        <img src="https://github-readme-stats.vercel.app/api?username=YeongJae0114&show_icons=true&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+[![Blog](https://img.shields.io/badge/Blog-000000?logo=velog&logoColor=white&style=flat)](https://velog.io/@yjl8628/posts)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zerojae175@gmail.com)
 
