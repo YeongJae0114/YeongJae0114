@@ -21,7 +21,7 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 **🏃‍➡️ Learning** </br>
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonaws&logoColor=white)
 
 
 ### 🚀 Projects
@@ -36,6 +36,14 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 |[꿀단지](https://github.com/gguldangi)              |2023.09| 최저가 강의 정보를 제공하는 웹 서비스                                |![PM](https://img.shields.io/badge/PM-purple) , ![Fullstack](https://img.shields.io/badge/Fullstack-lightgrey) |
 |  [대전이랑](https://github.com/YeongJae0114/With_Deajeon_PJ)                    |2022.11| 대전 지역 식당, 숙소, 행사 정보 제공 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue) |
 
+### 🏆 Awards
+
+| 수상 내역 | 시상 내용 | 수상 시기 |
+|-----------|-----------|-----------|
+| 카카오X구름 기업 연계 프로젝트 | 인기상 | 2025.03 |
+| 2024 캡스톤디자인(졸업작품) | 최우수상 (총장상) | 2024.12 |
+| 2023 SW융합클러스터2.0 해커톤 | 인재상 | 2023.10 |
+| 충청권대학연합 해커톤 | 대상 (시장상) | 2022.11 |
 
 <h3>📈 Contributions & My Dev Pets</h3>
 <table>
