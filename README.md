@@ -27,12 +27,12 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 
 | Title                         | Period | Description                                                 | Role              |
 |------------------------------|--------|-------------------------------------------------------------|--------------------|
-| [EasyShift](https://github.com/YeongJae0114/EasyShift-backend)|2025.03| 교대 근무 매장 관리자를 위한 스케줄링 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue) , ![Deployment](https://img.shields.io/badge/Deployment-green) |
+| [EasyShift](https://github.com/YeongJae0114/EasyShift-backend)|2025.03| 교대 근무 매장 관리자를 위한 스케줄링 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue)  ![Deployment](https://img.shields.io/badge/Deployment-green) |
 | [ Short Thesis](https://github.com/Short-thesis) |2024.12| 논문 숏츠 자동 생성 서비스                                        |![Backend](https://img.shields.io/badge/Backend-blue) |
-| [Trebbit](https://github.com/Sparcs-Hackathon-Team29)           |2024.08| 당일치기 여행지 추천과 문화생활 정보를 제공하는 서비스                   |![Backend](https://img.shields.io/badge/Backend-blue) , ![Deployment](https://img.shields.io/badge/Deployment-green) |
+| [Trebbit](https://github.com/Sparcs-Hackathon-Team29)           |2024.08| 당일치기 여행지 추천과 문화생활 정보를 제공하는 서비스                   |![Backend](https://img.shields.io/badge/Backend-blue)  ![Deployment](https://img.shields.io/badge/Deployment-green) |
 | [여정](https://github.com/YeongJae0114/Travel-Money-backend)                          |2024.06| 영수증 분석 및 지출 보고서 작성 서비스                               |![Backend](https://img.shields.io/badge/Backend-blue) |
 | [Smart Pargking Service](https://github.com/Smart-Parking-PJ)       |2023.12| 실시간 주차 공간 확인 서비스                                       |![Backend](https://img.shields.io/badge/Backend-blue) |
-|[꿀단지](https://github.com/gguldangi)              |2023.09| 최저가 강의 정보를 제공하는 웹 서비스                                |![PM](https://img.shields.io/badge/PM-purple) , ![Fullstack](https://img.shields.io/badge/Fullstack-lightgrey) |
+|[꿀단지](https://github.com/gguldangi)              |2023.09| 최저가 강의 정보를 제공하는 웹 서비스                                |![PM](https://img.shields.io/badge/PM-purple)  ![Fullstack](https://img.shields.io/badge/Fullstack-lightgrey) |
 |  [대전이랑](https://github.com/YeongJae0114/With_Deajeon_PJ)                    |2022.11| 대전 지역 식당, 숙소, 행사 정보 제공 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue) |
 
 ### 🏆 Awards
