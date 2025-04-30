@@ -44,7 +44,7 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 | 2023 SW융합클러스터2.0 해커톤 | 인재상 | 2023.10 |
 | 충청권대학연합 해커톤 | 대상 (시장상) | 2022.11 |
 
-**🎓 Education**
+### 🎓 Education
 - **Hanbat National University, Information and Communication Engineering** (2019.03 ~ 2025.02)
 - **Kakao x Goorm DEEP DIVE Bootcamp, Full-Stack Web Development Program** (2024.08 ~ 2025.03)
 
