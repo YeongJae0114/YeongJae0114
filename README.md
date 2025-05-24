@@ -50,7 +50,7 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 
 
 <h3>📈 Contributions & My Dev Pets</h3>
-<table>
+<table  border="0">
   <tr>
     <td>
       <a href="https://www.gitanimals.org/">
