@@ -1,4 +1,4 @@
-### Hi, I'm YeongJae Lee👋
+### 👋 Hi, I'm YeongJae Lee
 Backend server developer </br>
 Recently interested in **☁️infrastructure** and **📊monitoring.**
 </br>
