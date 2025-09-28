@@ -76,6 +76,6 @@ Feel free to check out my resume on Notion!   </br>
 I'm always open to feedback or suggestions 😊  
 
 [![Resume](https://img.shields.io/badge/Resume-Notion-000000?logo=notion&logoColor=white)](https://lopsided-stallion-c16.notion.site/230c94c8d6d180f09154d5e810790abc)
-[![Blog](https://img.shields.io/badge/Blog-000000?logo=velog&logoColor=white&style=flat)](https://velog.io/@yjl8628/posts)
+[![Blog](https://img.shields.io/badge/Blog-12B886?logo=velog&logoColor=white&style=flat)](https://velog.io/@yjl8628/posts)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zerojae175@gmail.com)
 
