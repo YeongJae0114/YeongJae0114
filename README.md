@@ -35,14 +35,6 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
 |[꿀단지](https://github.com/gguldangi)              |2023.09| 최저가 강의 정보를 제공하는 웹 서비스                                |![PM](https://img.shields.io/badge/PM-purple) |
 |  [대전이랑](https://github.com/YeongJae0114/With_Deajeon_PJ)                    |2022.11| 대전 지역 식당, 숙소, 행사 정보 제공 서비스                           |![Backend](https://img.shields.io/badge/Backend-blue) |
 
-### 🏆 Awards
-
-| Award Title | Award Type | Date |
-|-----------|-----------|-----------|
-| 카카오X구름 기업 연계 프로젝트 | 인기상 | 2025.03 |
-| 2024 캡스톤디자인(졸업작품) | 최우수상 (총장상) | 2024.12 |
-| 2023 SW융합클러스터2.0 해커톤 | 인재상 | 2023.10 |
-| 충청권대학연합 해커톤 | 대상 (시장상) | 2022.11 |
 
 ### 🎓 Education
 - **Hanbat National University, Information and Communication Engineering** (2019.03 ~ 2025.02)
@@ -70,12 +62,7 @@ Recently interested in **☁️infrastructure** and **📊monitoring.**
   </tr>
 </table>
 
-**📄 Resume** 
-</br>
-Feel free to check out my resume on Notion!   </br>
-I'm always open to feedback or suggestions 😊  
 
-[![Resume](https://img.shields.io/badge/Resume-Notion-000000?logo=notion&logoColor=white)](https://lopsided-stallion-c16.notion.site/230c94c8d6d180f09154d5e810790abc)
 [![Blog](https://img.shields.io/badge/Blog-12B886?logo=velog&logoColor=white&style=flat)](https://velog.io/@yjl8628/posts)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:zerojae175@gmail.com)
 
